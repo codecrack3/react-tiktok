@@ -7,3 +7,10 @@
   font-size: 2em;
   text-align: center;
 }
+
+._embed_player_video-item {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background-color: red !important;
+}
